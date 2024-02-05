@@ -16,10 +16,10 @@
 
 <h2>Our Standards</h2>
 <p>Examples of behavior that contributes to creating a positive environment include:</p>
-<ol>
-<ul>Using welcoming and inclusive language</ul>
-<ul>Being respectful of differing viewpoints and experiences</ul>
-<ul>Gracefully accepting constructive criticism</ul>
-<ul>Focusing on what is best for the community</ul>
-<ul>Showing empathy towards other community members</ul>
-</ol>
+<ul>
+<li>Using welcoming and inclusive language</li>
+<li>Being respectful of differing viewpoints and experiences</li>
+<li>Gracefully accepting constructive criticism</li>
+<li>Focusing on what is best for the community</li>
+<li>Showing empathy towards other community members</li>
+</ul>
