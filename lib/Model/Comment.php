@@ -2,10 +2,9 @@
 /**
  * PrivateBin
  *
- * a zero-knowledge paste bin
- *
- * @link      https://github.com/PrivateBin/PrivateBin
+ * A zero-knowledge paste bin
  * @copyright 2012 Sébastien SAUVAGE (sebsauvage.net)
+ * @link      https://github.com/PrivateBin/PrivateBin
  * @license   https://www.opensource.org/licenses/zlib-license.php The zlib/libpng License
  * @version   1.5.1
  */
